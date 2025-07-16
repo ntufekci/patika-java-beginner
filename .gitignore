@@ -1,0 +1,42 @@
+# Eclipse IDE Files
+# -----------------------------------------------------------------------------
+.classpath
+.project
+.settings/
+.buildpath
+*.prefs
+
+
+# -----------------------------------------------------------------------------
+# macOS Specific Files
+# -----------------------------------------------------------------------------
+.DS_Store               # macOS Desktop Services Store files
+.localized              # macOS localization marker
+.Spotlight-V100         # macOS Spotlight metadata
+.Trashes                # macOS trash directory
+
+
+# -----------------------------------------------------------------------------
+# Java Specific Files and Directories
+# -----------------------------------------------------------------------------
+# Compiled output
+*.class
+*.jar
+*.war
+*.ear
+/bin/                   # Default output for Eclipse compiled classes
+/target/                # Maven build output directory
+/out/                   # IntelliJ IDEA compiled output directory
+
+# JVM specific
+hs_err_pid*.log         # JVM crash logs
+.mtj.tmp/               # Mobile Tools for Java (J2ME) temporary directory
+
+# -----------------------------------------------------------------------------
+# General Temporary and Log Files
+# -----------------------------------------------------------------------------
+*.log                   # General log files
+*.tmp                   # Temporary files
+temp/                   # Generic temporary directory
+*~                      # Common editor backup files (e.g., Vim, Emacs)
+.#* # Common editor lock files (e.g., Emacs)
