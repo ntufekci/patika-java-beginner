@@ -14,7 +14,8 @@
 .localized              # macOS localization marker
 .Spotlight-V100         # macOS Spotlight metadata
 .Trashes                # macOS trash directory
-
+.DS_Store
+**/.DS_Store
 
 # -----------------------------------------------------------------------------
 # Java Specific Files and Directories

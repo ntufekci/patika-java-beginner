@@ -1,0 +1,41 @@
+Program:
+Programming:
+Programming Languages:
+Application:
+Algorithm:
+Syntax:
+
+
+- JVM: Java Virtual Machine
+- JRE: Java Runtime Environment
+- JDK: Java Development Kit
+
+
+Simple/ Dynamic/ OOP/ Multi-Thread/ Cross-Platform
+
+
+- Java 1991 Sun Microsystems "Oak" James Gosling - Green Project 
+C -> syntax
+C++ -> OOP
+
+Simple - OOP - Rich Library - Dynamic and Multi-Thread
+Multi-Thread: 
+
+
+Naming Conventions
+Java is a case-sensitive language.
+
+UpperCamelCase - classes
+lowerCamelCase - methods and variables
+SCREAMING_SNAKE_CASE - constants
+Snake_Case
+snake_case
+kebap-case 
+
+Names can start with letters, $ or _ 
+keywords can't be used while naming.
+
+Main Method:
+
+Concatenation:
+
