@@ -41,3 +41,4 @@ hs_err_pid*.log         # JVM crash logs
 temp/                   # Generic temporary directory
 *~                      # Common editor backup files (e.g., Vim, Emacs)
 .#* # Common editor lock files (e.g., Emacs)
+/bin/
